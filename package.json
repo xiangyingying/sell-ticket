@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.3.2",
     "postcss-pxtorem": "^4.0.1",
     "vant": "^2.2.13",
